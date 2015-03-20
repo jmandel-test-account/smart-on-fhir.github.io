@@ -3,8 +3,8 @@ layout: main
 title: SMART on FHIR Authorization
 ---
 
-# Authorization Guide
-
+# Authorization Guide 
+differenttest
 SMART on FHIR provides reliable, secure authorization for a variety of app
 architectures with a consistent, easy-to-implement set of building blocks.
 Because different app architectures bring different security considerations to
